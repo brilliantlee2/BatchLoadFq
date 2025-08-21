@@ -30,7 +30,6 @@ The script outputs 5 batches, and each read contains `id`, `seq`, and `q_letter`
  read_tuple(id='250F302306011_13_7217_13022_219426469_17878_2_11.63',
             seq='GGCATGGCGACTTTATCGACATGCTACGATCCGACTTTCTGCGTAACATAGCACCTTCCAGTCGGTG...',
             q_letter=")5::7766788('''(.66657776657431(((()*1,323000366521111367:75567333...")]
-breakpoint
 [read_tuple(id='250F302306011_12_4239_9839_202265667_13811_0_14.27',
             seq='AGAGGCATGGCGACCTTATCGACATGGCTACGATCCGACTTTCTGCGCACCGAGCATCCTTCTCGTA...',
             q_letter=".3:>??A<;:9999200478<<=<==>>?@@>===5/.00047;=<<;78;>=>>><=?>><***:..."),
